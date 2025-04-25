@@ -1,6 +1,5 @@
 # Python virtual environments
 venv/
-.env
 
 # Python bytecode
 __pycache__/
@@ -16,3 +15,6 @@ __pycache__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Ignore .env file
+.env
