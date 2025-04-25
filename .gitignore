@@ -18,3 +18,4 @@ Thumbs.db
 
 # Ignore .env file
 .env
+.env.local
